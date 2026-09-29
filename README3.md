@@ -4,7 +4,7 @@ An interactive travel-weather planner that compares 8 famous destinations with a
 
 **[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/sandeepa.patra/viz/FamousvsHiddenGems-WhenShouldYouTravel/Dashboard1)**
 
-![Dashboard](dashboard.png)
+<img width="1853" height="861" alt="image" src="https://github.com/user-attachments/assets/cff96511-610f-4b20-a202-3dd793343be8" />
 
 ## Why this project
 
