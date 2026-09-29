@@ -1,0 +1,17 @@
+pair_id,name,country,type,lat,lon
+1,Goa,India,famous,15.49,73.83
+1,Gokarna,India,hidden,14.55,74.32
+2,Manali,India,famous,32.24,77.19
+2,Tirthan Valley,India,hidden,31.63,77.45
+3,Jaipur,India,famous,26.91,75.79
+3,Bundi,India,hidden,25.43,75.65
+4,Bali,Indonesia,famous,-8.65,115.22
+4,Lombok,Indonesia,hidden,-8.58,116.12
+5,Phuket,Thailand,famous,7.88,98.39
+5,Koh Lanta,Thailand,hidden,7.62,99.05
+6,Santorini,Greece,famous,36.42,25.43
+6,Milos,Greece,hidden,36.73,24.45
+7,Dubai,UAE,famous,25.2,55.27
+7,Muscat,Oman,hidden,23.59,58.38
+8,Kyoto,Japan,famous,35.01,135.77
+8,Kanazawa,Japan,hidden,36.56,136.66
